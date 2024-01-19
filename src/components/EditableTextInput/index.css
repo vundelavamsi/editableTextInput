@@ -1,0 +1,45 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5d0fe;
+  height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 25px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+}
+
+.input-container {
+  display: flex;
+}
+
+.input-field {
+  height: 30px;
+  width: 200px;
+  margin-right: 15px;
+}
+
+.saved-text {
+  font-size: 16px;
+  color: #cbd2d9;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-right: 10px;
+}
+
+.button {
+  height: 30px;
+  width: 60px;
+  background-color: #d946ef;
+  color: white;
+  border: 0px;
+  border-radius: 8px;
+}
